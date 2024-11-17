@@ -1,6 +1,6 @@
 # ZoneMinder, you need the GIT repository code and submodules (git submodule update --init --recursive)
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 MAINTAINER Markos Vakondios <mvakondios@gmail.com>
 
 # Resynchronize the package index files 
